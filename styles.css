@@ -1,0 +1,12 @@
+*{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fotoPerfil { 
+    width: 200x;
+    height: 200px;
+    border-radius: 25px;
+}
+
+li {
+    font-style: italic;
+}
